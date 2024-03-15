@@ -1,6 +1,7 @@
 # opjprojekt
 
-## Petar Hrsto
-## Anela Rački
-## Tena Čop
-## Nikola Klobučar
+## Članovi
+- Petar Hrsto
+- Anela Rački
+- Tena Čop
+- Nikola Klobučar
