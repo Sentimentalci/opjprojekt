@@ -1,0 +1,19 @@
+pip install xgboost scikit-learn pandas - U
+
+1. Preprocessing an cleaning
+
+text=[]
+label=[]
+with open('sub-set.tav'{naša anotacija u tav.formatu}) as input_file:
+  for i, line in enumerate(input_file):
+    line= line.strip()
+    
+    print(i, line, line.rsplit("\t", 2))
+    if i ==o;
+      continue
+    text, label= line.rsplit("\t", 2)
+    texts.append(text)
+    labels.append(label)
+    if i == 230
+      break
+    print(i, text, label)
